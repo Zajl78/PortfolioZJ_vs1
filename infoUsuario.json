@@ -1,0 +1,93 @@
+
+{
+    "usuario": {
+
+        "datos": {
+            "nombre": "Zulyma",
+            "apellido": "Jeschke López",
+            "dni": 95974099,
+            "telefono": 2996282420,
+            "correo": "zulymajeschke@gmail.com"
+
+        },
+
+        "dirección": {
+            "calle": "Doctor Federico Leloir 929",
+            "ciudad": "Neuquén Capital",
+            "provincia": "Neuquén",
+            "pais": "Argentina",
+            "codigo postal": 8300
+        },
+
+        "experiencia": [
+            {
+                "empresa": "PDVSA",
+                "lugar": "Campo El Furrial - Monagas-Venezuela",
+                "fecha": {"desde": "Nov 2011", "hasta": "Feb 2019"}, 
+                "puesto": "Ingeniero de Reservorio" 
+                
+            },
+
+            {
+                "empresa": "PDVSA", 
+                "lugar": "Campo El Furrial - Monagas-Venezuela",
+                "fecha": {"desde": "Oct 2009", "hasta": "Nov 2011"},
+                "puesto": "Ingeniero de Confiabilidad"
+                
+            },
+
+            {
+                "empresa": "PDVSA",
+                "lugar": "Campo El Furrial - Monagas-Venezuela",
+                "fecha": {"desde": "May 2006", "hasta": "Oct 2009"}, 
+                "puesto": "Ingeniero de Corrosión"
+            
+            },
+
+            {
+                "empresa": "PDVSA",
+                "lugar": "Campo El Furrial - Monagas-Venezuela",
+                "fecha": {"desde": "Jun 2005", "hasta": "May 2006"}, 
+                "puesto": "Supervisor de Campo de Equipos Estásticos" 
+                
+            }
+
+        ],
+
+        "formacion": [
+            {
+                "tipo": "Universitaria",
+                "institución": "Universidad de Oriente (UDO)", 
+                "lugar": "Monagas Venezuela",
+                "carrera": "Ingeniero de Petróleo", 
+                "fecha": {"desde": 1996, "hasta": 2005} 
+                
+            },
+
+            {
+                "tipo": "Diplomatura",
+                "institución": "PDVSA",
+                "lugar": "Monagas Venezuela", 
+                "carrera": "Diplomado en Gas Lift", 
+                "fecha": "Feb 2016"
+            },
+
+            {
+                "tipo": "Diplomatura",
+                "institución": "Fundación Ilarte",
+                "lugar": "Argentina",
+                "carrera": "Diplomado en Seguridad e Higiene Laboral", 
+                "fecha": "Dic 2021" 
+            }
+        ],
+
+        "habilidades": [
+            "Gestión de personal de acuerdo con sus habilidades y competencias",
+            "Ejecución de proyectos y asignación de tareas relacionadas al puesto",
+            "Excelente adaptabilidad, capacidad de trabajar bajo presión y autoaprendizaje",
+            "Facilidad de trabajo en equipo, comunicación eficiente con los colegas",
+            "Manejo de paquetes de Computación: Office XP-2011, OFM, EMERAUDE, WELLFLO, Project. SAHARA",
+            "Inglés Nivel medio, Fluido en comunicación verbal y escrita"
+        ] 
+    }
+}

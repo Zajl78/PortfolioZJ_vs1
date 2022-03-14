@@ -1,0 +1,105 @@
+* {
+    margin: 0%;
+    padding:0%;
+}
+
+body, section{
+    display: block;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #054aaa;
+}
+
+h2 {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    color: #2f3640;
+    
+}
+
+li {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1%;
+    padding-right: 5%;
+    color: #054aaa;
+    text-align: justify;
+}
+
+p {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding: 0% 5%;
+    color: #2f3640;
+}
+
+.home {
+    margin-top:15px;
+}
+.cuerpo {
+    padding-bottom: 30px;
+}
+.base {
+    background-color: #c6cee9;
+}
+
+.logoAP {
+    background-color: black;
+}
+
+
+#profil {
+    width: 50%;
+    height: 95%;
+    border-style:inset;
+    border-radius: 50%;
+    margin-left: 15%;
+    float:left;
+    border-color:rgb(106, 134, 160);
+}
+
+.profil { 
+    text-align: center;
+    color: #2f3640;
+}
+
+.idLogo {
+    font-size: small;
+}
+
+.name {
+    text-align: center;
+    
+}
+
+.carousel-item {
+    margin-top: 30px;
+    display: flex;
+}
+
+#description {
+    padding-top:0;
+    padding-right: 60px;
+    padding-left: 0px;
+    display:inline-flex;
+}
+
+.card {
+    margin-right:35px;
+    margin-left:35px;
+    border-radius: 32px 32px 0 0;
+    display: flex;
+    word-wrap: break-word;
+    
+}
+
+.mat-card {
+    background-color: #c6cee9;
+    border:none;
+}
